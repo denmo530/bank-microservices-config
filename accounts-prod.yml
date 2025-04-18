@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 accounts:
-  message: "Welcome to FAKEBANK accounts related prod webhook testing APIs"
+  message: "Welcome to FAKEBANK accounts related production with webhook APIs"
   contactDetails:
     name: "John Doe - Key Account Manager"
     email: "john@doe.com"
